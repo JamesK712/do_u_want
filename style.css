@@ -35,7 +35,7 @@ body {
 }
 
 .p1 {
-    width: 100px;
+    width: 20px;
 }
 .p1:hover {
     background: gray;
@@ -43,7 +43,8 @@ body {
 }
 
 p.p2 {
-    width: 100px;
+    width: 20px;
+    margin-top: 20px;
 }
 p.p2:hover {
     background: gray;
