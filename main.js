@@ -16,6 +16,6 @@ function dijoSi() {
 
     // Iterar a través de la colección y establecer la propiedad "position" para cada elemento
     for (let i = 0; i < elementosP1.length; i++) {
-        elementosP1[i].style.position = "relative";
+        elementosP1[i].style.display = "none";
     }
 }
